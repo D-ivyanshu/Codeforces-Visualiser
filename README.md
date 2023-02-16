@@ -1,4 +1,4 @@
-# CF VIZ
+# CF VISUALIZER
 
 * This is a project that allows users to visualize the problems they have solved on competitive programming websites, such as Codeforces and AtCoder, with different filters. It also calls the Kontest API to display upcoming contests for the user.
 
