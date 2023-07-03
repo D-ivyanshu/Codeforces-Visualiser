@@ -1,6 +1,6 @@
 # CF VISUALIZER
 
-* This is a project that allows users to visualize the problems they have solved on competitive programming Codeforces, with different filters. It also calls the Kontest API to display upcoming contests for the user.
+* Allows users to visualize the problems they have solved on competitive programming Codeforces, with different filters. It also calls the Kontest API to display upcoming contests for the user.
 
 # Features
 
